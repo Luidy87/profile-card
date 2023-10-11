@@ -1,6 +1,6 @@
 body{
 background-color: hsl(185, 75%, 39%);
-background-image: url("./src/images/bg-pattern-bottom.svg");
+background-image: url("../images/bg-pattern-top.svg");
 font-family: 'Kumbh Sans', sans-serif;
 height: 100vh;
 }
